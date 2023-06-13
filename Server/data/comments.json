@@ -1,0 +1,12 @@
+[
+  {
+    "comment": "Lorem ipsum dolor sit amet",
+    "PostId": 1,
+    "UserId": 3
+  },
+  {
+    "comment": "Lorem ipsum dolor sit amet",
+    "PostId": 2,
+    "UserId": 4
+  }
+]

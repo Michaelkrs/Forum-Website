@@ -1,0 +1,23 @@
+[
+  {
+    "title": "This is New News",
+    "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint vero illo nihil quos nulla odit doloremque soluta sed ad inventore reprehenderit dolore natus neque sunt at corporis enim, recusandae a! Mollitia aspernatur minus dolor accusamus suscipit laudantium illo nisi perferendis facere amet earum obcaecati voluptate dignissimos corrupti vero quas quia praesentium velit, quis repudiandae eius et! Ea ducimus dignissimos veniam.Minus nostrum labore, vero, dolor perferendis id hic sapiente esse voluptate quam sunt debitis tempora tenetur minima, aperiam voluptatem molestias quisquam laudantium quas vitae. Facere vitae tempora fugiat velit repellendus!",
+    "imgUrl": "http://dummyimage.com/132x100.png/cc0000/ffffff",
+    "UserId": 1,
+    "CategoryId": 1
+  },
+  {
+    "title": "This is Old News",
+    "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint vero illo nihil quos nulla odit doloremque soluta sed ad inventore reprehenderit dolore natus neque sunt at corporis enim, recusandae a! Mollitia aspernatur minus dolor accusamus suscipit laudantium illo nisi perferendis facere amet earum obcaecati voluptate dignissimos corrupti vero quas quia praesentium velit, quis repudiandae eius et! Ea ducimus dignissimos veniam.Minus nostrum labore, vero, dolor perferendis id hic sapiente esse voluptate quam sunt debitis tempora tenetur minima, aperiam voluptatem molestias quisquam laudantium quas vitae. Facere vitae tempora fugiat velit repellendus!",
+    "imgUrl": "http://dummyimage.com/132x100.png/cc0000/ffffff",
+    "UserId": 2,
+    "CategoryId": 2
+  },
+  {
+    "title": "Funny Stories Compilation",
+    "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint vero illo nihil quos nulla odit doloremque soluta sed ad inventore reprehenderit dolore natus neque sunt at corporis enim, recusandae a! Mollitia aspernatur minus dolor accusamus suscipit laudantium illo nisi perferendis facere amet earum obcaecati voluptate dignissimos corrupti vero quas quia praesentium velit, quis repudiandae eius et! Ea ducimus dignissimos veniam.Minus nostrum labore, vero, dolor perferendis id hic sapiente esse voluptate quam sunt debitis tempora tenetur minima, aperiam voluptatem molestias quisquam laudantium quas vitae. Facere vitae tempora fugiat velit repellendus!",
+    "imgUrl": "http://dummyimage.com/132x100.png/cc0000/ffffff",
+    "UserId": 3,
+    "CategoryId": 3
+  }
+]
