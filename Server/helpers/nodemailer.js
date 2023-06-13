@@ -1,16 +1,17 @@
 const nodemailer = require("nodemailer");
+require("dotenv").config();
 
 async function main(email) {
   let mailTransporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-      user: "elisabetsobeck11@gmail.com",
-      pass: "fmxictgaiclpxenf",
+      user: process.env.NODEMAILER_EMAIL,
+      pass: process.env.NODEMAILER_PASSWORD,
     },
   });
 
   let detail = {
-    from: '"Confirmation Email" <elisabetsobeck11@gmail.com>',
+    from: `"Confirmation Email" <${process.env.NODEMAILER_EMAIL}>`,
     to: email,
     subject: "Account Registered",
     text: "You have registered",
